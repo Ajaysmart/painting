@@ -1,0 +1,138 @@
+.baground
+{
+
+    background-image: url(color.jpg);
+
+   text-align: center;
+   width: 100%;
+ 
+   
+   
+}
+
+h3
+{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    font-size:2.8rem;
+    color:fff;
+    margin:0px;
+
+    
+}
+
+.img
+{
+    height: 20rem;
+    width: auto;
+    text-align: center;
+    margin: 3rem;
+}
+.img2
+{
+    height: 20rem;
+    width: auto;
+    text-align: center;
+    margin: 3rem;
+}
+h4{
+    font-family: 'Rubik Wet Paint', cursive;
+
+    font-size: 3.5rem;
+    color: #FC2947;
+}
+    /* section */
+
+    .lappam
+    {
+        background-color:#917FB3;
+       text-align: center;
+       width: 100%;
+    
+    }
+    .lappamimg
+    {
+        border-radius: 30px;
+        
+        width: 40%;
+        height: 30%;
+        margin-left: 50%;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        
+
+    }
+    .lappamimg2
+    {
+        border-radius: 30px;
+        
+        width: 40%;
+        height: 30%;
+        margin-right: 60%;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        
+        
+        
+
+    }
+    .para
+    {
+        font-size: 1.5rem;
+        font-family:  'Merriweather', serif;
+        color: fff;
+        
+    }
+     /* colour */
+     .colour
+     {
+        background-color: #F7D060;
+        text-align: center;
+        width: 100%;
+     }
+     #pop
+     {
+        background-color: #917FB3;
+        text-align: center;
+        width: 100%;
+     }
+        /* elevetion */
+
+        .elevation
+        {
+            background-color: #F7D060;
+            text-align: center;
+            width: 100%;
+            
+        }
+        .ele{
+            border-radius: 30px;
+            height: 70%;
+            width: 70%;
+            margin: 1rem;
+
+        }
+        /* design */
+        .design
+        {
+            background-color:#917FB3;
+            text-align: center;
+            width: 100%;
+          
+        }
+        /* fotter */
+        .logo
+        {
+            height: 2rem;
+            width: 2rem;
+        }
+        #contact
+        {
+            text-align: center;
+            background-color:#FDF7C3;
+            width: 100%;
+        }
+        .hell
+        {
+            color: green;
+        }
